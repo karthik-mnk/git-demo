@@ -2,10 +2,7 @@
 
 This is the first file in this repo
 
-##Ipsum Below
+##Website
+These are in website file
+1. index.html
 
-deuierdnenjuire
-
-hdhrkdjekj
-hejkkje
-jjekjkjer
